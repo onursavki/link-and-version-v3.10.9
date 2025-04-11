@@ -62,45 +62,52 @@ const skinLinks = [
     "", // Yeni Travego 16SHD
     "", // 2023 Travego 16SHD
     "", // Setra S516HD
+    "", // Setra 517HDH
     "", // Setra S531DT
-    "", 
-    "", 
-    "", 
-    "", 
-    ""
+
+    // SON EKLENEN OTOBÜSLER
+    "", // Temsa Maraton 3 VIP 2019-2023
+    "", // Temsa Safir Plus HD 13
+    "", // Temsa Safir 2 VIP
+    "", // Yeni Tourismo 16RHD 2024
+    "", // 2023 Travego 16SHD
 ];
 
 // ETS 2 VERSİYONLARI
 const versions = [
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x",
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x",
-    "v1.53.x", 
-    "v1.54.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.54.x",
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x", 
-    "v1.53.x"
+    // OTOBÜSLER
+    "v1.53.x", // Neoplan Cityliner
+    "v1.53.x", // Neoplan Starliner
+    "v1.53.x", // Neoplan Tourliner C13
+    "v1.53.x", // Neoplan Tourliner C14
+    "v1.53.x", // Man Lions R07
+    "v1.53.x", // Man Lions 2023
+    "v1.53.x", // Mercedes-Benz O-403
+    "v1.53.x", // Yeni Tourismo 16RHD
+    "v1.53.x", // Tourismo 16RHD E5 ve E6
+    "v1.53.x", // Tourismo 17RHD
+    "v1.53.x", // Travego SE 15SHD
+    "v1.53.x", // Travego SE 17SHD
+    "v1.53.x", // Yeni Travego 15SHD
+    "v1.53.x", // Yeni Travego 16SHD
+    "v1.53.x", // 2023 Travego 16SHD
+    "v1.53.x", // Setra S516HD
+    "v1.53.x", // Setra 517HDH
+    "v1.54.x", // Setra S531DT
+
+    // HARİTALAR
+    "v1.53.x", // Paris Map 1:1
+    "v1.53.x", // Roextended Türkiye Haritası
+    "v1.53.x", // Grand Utopia 1:1
+    "v1.53.x", // Taşıyıcı Map
+    "v1.53.x", // Türkiye YKS Haritası
+
+    // SON EKLENEN OTOBÜSLER
+    "v1.53.x", // Temsa Maraton 3 VIP 2019-2023
+    "v1.53.x", // Temsa Safir Plus HD 13
+    "v1.53.x", // Temsa Safir 2 VIP
+    "v1.53.x", // Yeni Tourismo 16RHD 2024
+    "v1.53.x", // 2023 Travego 16SHD
 ];
 
 // MOD VERSİYONLARI
