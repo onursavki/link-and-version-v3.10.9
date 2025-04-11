@@ -1,39 +1,109 @@
 // MOD LİNKLERİ
 const links = [
+    // OTOBÜSLER
     "", // Neoplan Cityliner
     "", // Neoplan Starliner
     "", // Neoplan Tourliner C13
     "x", // Neoplan Tourliner C14
     "", // Man Lions R07
-    "", // Man Lions 2023
+    "https://ay.live/YMLC23", // Man Lions 2023
     "x", // Mercedes-Benz O-403
-    "", // Yeni Tourismo 16RHD
+    "https://ay.live/YT16Rh", // Yeni Tourismo 16RHD
     "", // Tourismo 16RHD E5 ve E6
     "x", // Tourismo 17RHD
-    "", // Travego SE 15SHD
-    "", // Travego SE 17SHD
+    "https://ay.live/T15Shd", // Travego SE 15SHD
+    "https://ay.live/T17Shd", // Travego SE 17SHD
     "", // Yeni Travego 15SHD
     "", // Yeni Travego 16SHD
     "", // 2023 Travego 16SHD
     "", // Setra S516HD
     "", // Setra 517HDH
     "https://ay.live/S531DT", // Setra S531DT
-    "", "", "", "", "", "", "https://ay.live/TasMap", "", "", "",
-    "", "", "", "", "",
-    "", "", "", "", ""
+
+    // HARİTALAR
+    "", // Paris Map 1:1
+    "", // Roextended Türkiye Haritası
+    "", // Roextended Türkiye Haritası
+    "", // Roextended Türkiye Haritası
+    "", // Roextended Türkiye Haritası
+    "", // Grand Utopia 1:1
+    "https://ay.live/TasMap", // Taşıyıcı Map
+    "", // Türkiye YKS Haritası
+    "", // Türkiye YKS Haritası
+    "", // Türkiye YKS Haritası
+
+    //SAYFALAR
+    "", // Başvuru Formu
+    "", // Reklam ve İş Birliği  
+
+    // SON EKLENEN OTOBÜSLER
+    "", // Temsa Maraton 3 VIP 2019-2023
+    "", // Temsa Safir Plus HD 13
+    "", // Temsa Safir 2 VIP
+    "", // Yeni Tourismo 16RHD 2024
+    "https://ay.live/TasMap", // 2023 Travego 16SHD
+    "", 
+    "", 
+    ""
 ];
 
 // SKİN LİNKLERİ
 const skinLinks = [
-    "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+    "", // Neoplan Cityliner
+    "", // Neoplan Starliner
+    "", // Neoplan Tourliner C13
+    "", // Neoplan Tourliner C14
+    "", // Man Lions R07
+    "", // Man Lions 2023
+    "", // Mercedes-Benz O-403
+    "https://ay.live/YToSp", // Yeni Tourismo 16RHD
+    "", // Tourismo 16RHD E5 ve E6
+    "", // Tourismo 17RHD
+    "https://ay.live/Tr15Sp", // Travego SE 15SHD
+    "https://ay.live/Tr17Sp", // Travego SE 17SHD
+    "", // Yeni Travego 15SHD
+    "", // Yeni Travego 16SHD
+    "", // 2023 Travego 16SHD
+    "", // Setra S516HD
+    "", // Setra S531DT
+    "", 
+    "", 
+    "", 
+    "", 
+    ""
 ];
 
 // ETS 2 VERSİYONLARI
 const versions = [
-    "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x",
-    "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x",
-    "v1.53.x", "v1.54.x", "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x", "v1.54.x",
-    "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x", "v1.53.x"
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x",
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x",
+    "v1.53.x", 
+    "v1.54.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.54.x",
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x", 
+    "v1.53.x"
 ];
 
 // MOD VERSİYONLARI
