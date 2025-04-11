@@ -82,13 +82,13 @@ const versions = [
     "v1.53.x", // Neoplan Tourliner C13
     "v1.53.x", // Neoplan Tourliner C14
     "v1.53.x", // Man Lions R07
-    "v1.53.x", // Man Lions 2023
+    "v1.54.x", // Man Lions 2023
     "v1.53.x", // Mercedes-Benz O-403
-    "v1.53.x", // Yeni Tourismo 16RHD
+    "v1.54.x", // Yeni Tourismo 16RHD
     "v1.53.x", // Tourismo 16RHD E5 ve E6
     "v1.53.x", // Tourismo 17RHD
-    "v1.53.x", // Travego SE 15SHD
-    "v1.53.x", // Travego SE 17SHD
+    "v1.54.x", // Travego SE 15SHD
+    "v1.54.x", // Travego SE 17SHD
     "v1.53.x", // Yeni Travego 15SHD
     "v1.53.x", // Yeni Travego 16SHD
     "v1.53.x", // 2023 Travego 16SHD
