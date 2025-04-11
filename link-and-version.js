@@ -112,16 +112,74 @@ const versions = [
 
 // MOD VERSİYONLARI
 const modVersions = [
-    "", "", "", "", "", "v1.2", "", "", "", "", "", "", "", "", "", "v2", "v7",
-    "v3.4", "v4.5", "v1.16.2", "v11", "v1.4", "", "", "", "", ""
+    "", // Neoplan Cityliner
+    "", // Neoplan Starliner
+    "", // Neoplan Tourliner C13
+    "", // Neoplan Tourliner C14
+    "", // Man Lions R07
+    "v1.2", // Man Lions 2023
+    "", // Mercedes-Benz O-403
+    "", // Yeni Tourismo 16RHD
+    "", // Tourismo 16RHD E5 ve E6
+    "", // Tourismo 17RHD
+    "", // Travego SE 15SHD
+    "", // Travego SE 17SHD
+    "", // Yeni Travego 15SHD
+    "", // Yeni Travego 16SHD
+    "", // 2023 Travego 16SHD
+    "v2", // Setra S516HD
+    "", // Setra 517HDH
+    "v7", // Setra S531DT
+
+    // HARİTALAR
+    "v3.4", // Paris Map 1:1
+    "v4.5", // Roextended Türkiye Haritası
+    "v1.16.2", // Grand Utopia 1:1
+    "v11", // Taşıyıcı Map
+    "v1.4", // Türkiye YKS Haritası
+
+    // SON EKLENEN OTOBÜSLER
+    "", // Temsa Maraton 3 VIP 2019-2023
+    "", // Temsa Safir Plus HD 13
+    "", // Temsa Safir 2 VIP
+    "", // Yeni Tourismo 16RHD 2024
+    "" // 2023 Travego 16SHD
 ];
 
 // FİYAT BİLGİLERİ
 const prices = [
-    "0,00 ₺", "0,00 ₺", "0,00 ₺", "0,00 ₺", "0,00 ₺", "0,00 ₺", "50,00 ₺", "0,00 ₺",
-    "0,00 ₺", "0,00 ₺", "0,00 ₺", "0,00 ₺", "0,00 ₺", "0,00 ₺", "0,00 ₺", "0,00 ₺",
-    "0,00 ₺", "80,00 ₺", "0,00 ₺", "0,00 ₺", "0,00 ₺", "50,00 ₺", "0,00 ₺", 
-    "0,00 ₺", "0,00 ₺", "0,00 ₺", "0,00 ₺", "0,00 ₺"
+    "0,00 ₺", // Neoplan Cityliner
+    "0,00 ₺", // Neoplan Starliner
+    "0,00 ₺", // Neoplan Tourliner C13
+    "0,00 ₺", // Neoplan Tourliner C14
+    "0,00 ₺", // Man Lions R07
+    "0,00 ₺", // Man Lions 2023
+    "50,00 ₺", // Mercedes-Benz O-403
+    "0,00 ₺", // Yeni Tourismo 16RHD
+    "0,00 ₺", // Tourismo 16RHD E5 ve E6
+    "0,00 ₺", // Tourismo 17RHD
+    "0,00 ₺", // Travego SE 15SHD
+    "0,00 ₺", // Travego SE 17SHD
+    "0,00 ₺", // Yeni Travego 15SHD
+    "0,00 ₺", // Yeni Travego 16SHD
+    "0,00 ₺", // 2023 Travego 16SHD
+    "0,00 ₺", // Setra S516HD
+    "0,00 ₺", // Setra 517HDH
+    "80,00 ₺", // Setra S531DT
+
+    // HARİTALAR
+    "0,00 ₺", // Paris Map 1:1
+    "0,00 ₺", // Roextended Türkiye Haritası
+    "0,00 ₺", // Grand Utopia 1:1
+    "50,00 ₺", // Taşıyıcı Map
+    "0,00 ₺", // Türkiye YKS Haritası
+
+    // SON EKLENEN OTOBÜSLER
+    "0,00 ₺", // Temsa Maraton 3 VIP 2019-2023
+    "0,00 ₺", // Temsa Safir Plus HD 13
+    "0,00 ₺", // Temsa Safir 2 VIP
+    "0,00 ₺", // Yeni Tourismo 16RHD 2024
+    "0,00 ₺" // 2023 Travego 16SHD
 ];
 
 // MODLARI İŞLE
