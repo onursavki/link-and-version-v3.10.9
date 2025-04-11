@@ -1,9 +1,9 @@
 // MOD LİNKLERİ
 const links = [
     // OTOBÜSLER
-    "", // Neoplan Cityliner
+    "https://ay.live/NeoCty", // Neoplan Cityliner
     "", // Neoplan Starliner
-    "", // Neoplan Tourliner C13
+    "https://ay.live/NeoC13", // Neoplan Tourliner C13
     "x", // Neoplan Tourliner C14
     "", // Man Lions R07
     "https://ay.live/YMLC23", // Man Lions 2023
@@ -37,9 +37,9 @@ const links = [
     "", // Reklam ve İş Birliği
 
     // SON EKLENEN OTOBÜSLER
-    "", // Temsa Maraton 3 VIP 2019-2023
-    "", // Temsa Safir Plus HD 13
-    "", // Temsa Safir 2 VIP
+    "https://ay.link/TemMar", // Temsa Maraton 3 VIP 2019-2023
+    "https://ay.link/TemPls", // Temsa Safir Plus HD 13
+    "https://ay.link/TemSa2", // Temsa Safir 2 VIP
     "", // Yeni Tourismo 16RHD 2024
     "https://ay.live/YT2024", // 2016 - 2024 Travego 16SHD
 ];
