@@ -41,7 +41,7 @@ const links = [
     "https://ay.link/TemPls", // Temsa Safir Plus HD 13
     "https://ay.link/TemSa2", // Temsa Safir 2 VIP
     "", // Yeni Tourismo 16RHD 2024
-    "https://ay.live/YT2024", // 2016 - 2024 Travego 16SHD
+    "https://ay.live/YT2024", // 2023 Travego 15SHD
 ];
 
 // SKİN LİNKLERİ
@@ -71,15 +71,15 @@ const skinLinks = [
     "", // Temsa Safir Plus HD 13
     "", // Temsa Safir 2 VIP
     "", // Yeni Tourismo 16RHD 2024
-    "", // // 2016 - 2024 Travego 16SHD
+    "", // 2023 Travego 15SHD
 ];
 
 // ETS 2 VERSİYONLARI
 const versions = [
     // OTOBÜSLER
-    "v1.53.x", // Neoplan Cityliner
+    "v1.54.x", // Neoplan Cityliner
     "v1.53.x", // Neoplan Starliner
-    "v1.53.x", // Neoplan Tourliner C13
+    "v1.54.x", // Neoplan Tourliner C13
     "v1.53.x", // Neoplan Tourliner C14
     "v1.53.x", // Man Lions R07
     "v1.54.x", // Man Lions 2023
@@ -104,11 +104,11 @@ const versions = [
     "v1.53.x", // Türkiye YKS Haritası
 
     // SON EKLENEN OTOBÜSLER
-    "v1.53.x", // Temsa Maraton 3 VIP 2019-2023
-    "v1.53.x", // Temsa Safir Plus HD 13
-    "v1.53.x", // Temsa Safir 2 VIP
+    "v1.54.x", // Temsa Maraton 3 VIP 2019-2023
+    "v1.54.x", // Temsa Safir Plus HD 13
+    "v1.54.x", // Temsa Safir 2 VIP
     "v1.53.x", // Yeni Tourismo 16RHD 2024
-    "v1.53.x", // 2016 - 2024 Travego 16SHD
+    "v1.54.x", // 2023 Travego 15SHD
 ];
 
 // MOD VERSİYONLARI
@@ -145,7 +145,7 @@ const modVersions = [
     "", // Temsa Safir Plus HD 13
     "", // Temsa Safir 2 VIP
     "", // Yeni Tourismo 16RHD 2024
-    "" // // 2016 - 2024 Travego 16SHD
+    "" // 2023 Travego 15SHD
 ];
 
 // FİYAT BİLGİLERİ
@@ -182,7 +182,7 @@ const prices = [
     "0,00 ₺", // Temsa Safir Plus HD 13
     "0,00 ₺", // Temsa Safir 2 VIP
     "0,00 ₺", // Yeni Tourismo 16RHD 2024
-    "0,00 ₺" // // 2016 - 2024 Travego 16SHD
+    "0,00 ₺" // 2023 Travego 15SHD
 ];
 
 // MODLARI İŞLE
