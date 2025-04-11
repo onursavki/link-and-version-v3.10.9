@@ -19,6 +19,8 @@ const links = [
     "", // Setra S516HD
     "", // Setra 517HDH
     "https://ay.live/S531DT", // Setra S531DT
+
+    // HARİTALAR
     "", // Paris Map 1:1
     "", // Roextended Türkiye Haritası
     "", // Roextended Türkiye Haritası
@@ -29,16 +31,17 @@ const links = [
     "", // Türkiye YKS Haritası
     "", // Türkiye YKS Haritası
     "", // Türkiye YKS Haritası
+
+    // SAYFALAR
     "", // Başvuru Formu
-    "", // Reklam ve İş Birliği  
+    "", // Reklam ve İş Birliği
+
+    // SON EKLENEN OTOBÜSLER
     "", // Temsa Maraton 3 VIP 2019-2023
     "", // Temsa Safir Plus HD 13
     "", // Temsa Safir 2 VIP
     "", // Yeni Tourismo 16RHD 2024
-    "https://ay.live/TasMap", // 2023 Travego 16SHD
-    "", 
-    "", 
-    ""
+    "https://ay.live/S531DT", // 2023 Travego 16SHD
 ];
 
 // SKİN LİNKLERİ
