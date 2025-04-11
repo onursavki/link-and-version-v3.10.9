@@ -41,7 +41,7 @@ const links = [
     "", // Temsa Safir Plus HD 13
     "", // Temsa Safir 2 VIP
     "", // Yeni Tourismo 16RHD 2024
-    "https://ay.live/S531DT", // 2023 Travego 16SHD
+    "", // 2023 Travego 16SHD
 ];
 
 // SKİN LİNKLERİ
