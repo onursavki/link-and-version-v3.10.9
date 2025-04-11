@@ -46,6 +46,7 @@ const links = [
 
 // SKİN LİNKLERİ
 const skinLinks = [
+    // OTOBÜSLER
     "", // Neoplan Cityliner
     "", // Neoplan Starliner
     "", // Neoplan Tourliner C13
@@ -112,6 +113,7 @@ const versions = [
 
 // MOD VERSİYONLARI
 const modVersions = [
+    // OTOBÜSLER
     "", // Neoplan Cityliner
     "", // Neoplan Starliner
     "", // Neoplan Tourliner C13
@@ -148,6 +150,7 @@ const modVersions = [
 
 // FİYAT BİLGİLERİ
 const prices = [
+    // OTOBÜSLER
     "0,00 ₺", // Neoplan Cityliner
     "0,00 ₺", // Neoplan Starliner
     "0,00 ₺", // Neoplan Tourliner C13
