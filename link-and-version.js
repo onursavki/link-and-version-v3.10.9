@@ -26,7 +26,7 @@ const links = [
     "", // Roextended Türkiye Haritası
     "", // Roextended Türkiye Haritası
     "", // Roextended Türkiye Haritası
-    "", // Grand Utopia 1:1
+    "https://ay.live/GUMap", // Grand Utopia 1:1
     "https://ay.live/TasMap", // Taşıyıcı Map
     "", // Türkiye YKS Haritası
     "", // Türkiye YKS Haritası
@@ -99,7 +99,7 @@ const versions = [
     // HARİTALAR
     "v1.53.x", // Paris Map 1:1
     "v1.53.x", // Roextended Türkiye Haritası
-    "v1.53.x", // Grand Utopia 1:1
+    "v1.54.x", // Grand Utopia 1:1
     "v1.54.x", // Taşıyıcı Map
     "v1.53.x", // Türkiye YKS Haritası
 
@@ -136,7 +136,7 @@ const modVersions = [
     // HARİTALAR
     "v3.4", // Paris Map 1:1
     "v4.5", // Roextended Türkiye Haritası
-    "v1.16.2", // Grand Utopia 1:1
+    "v1.16.3", // Grand Utopia 1:1
     "v11", // Taşıyıcı Map
     "v1.4", // Türkiye YKS Haritası
 
