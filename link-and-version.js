@@ -21,7 +21,7 @@ const links = [
     "https://ay.live/S531DT", // Setra S531DT
 
     // HARİTALAR
-    "", // Paris Map 1:1
+    "https://ay.live/ParMap", // Paris Map 1:1
     "https://ay.live/RoExt1", // Roextended Türkiye Haritası
     "https://ay.live/RoExt2", // Roextended Türkiye Haritası
     "https://ay.live/RoExt3", // Roextended Türkiye Haritası
@@ -97,7 +97,7 @@ const versions = [
     "v1.54.x", // Setra S531DT
 
     // HARİTALAR
-    "v1.53.x", // Paris Map 1:1
+    "v1.54.x", // Paris Map 1:1
     "v1.54.x", // Roextended Türkiye Haritası
     "v1.54.x", // Grand Utopia 1:1
     "v1.54.x", // Taşıyıcı Map
