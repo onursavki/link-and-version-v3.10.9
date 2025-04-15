@@ -22,10 +22,10 @@ const links = [
 
     // HARİTALAR
     "", // Paris Map 1:1
-    "", // Roextended Türkiye Haritası
-    "", // Roextended Türkiye Haritası
-    "", // Roextended Türkiye Haritası
-    "", // Roextended Türkiye Haritası
+    "https://ay.live/RoExt1", // Roextended Türkiye Haritası
+    "https://ay.live/RoExt2", // Roextended Türkiye Haritası
+    "https://ay.live/RoExt3", // Roextended Türkiye Haritası
+    "https://ay.live/RoExt4", // Roextended Türkiye Haritası
     "https://ay.live/GUMap", // Grand Utopia 1:1
     "https://ay.live/TasMap", // Taşıyıcı Map
     "https://ay.link/ObMap1", // Türkiye YKS Haritası
@@ -135,7 +135,7 @@ const modVersions = [
 
     // HARİTALAR
     "v3.4", // Paris Map 1:1
-    "v4.5", // Roextended Türkiye Haritası
+    "v4.6", // Roextended Türkiye Haritası
     "v1.16.3", // Grand Utopia 1:1
     "v11", // Taşıyıcı Map
     "v1.4.2", // Türkiye YKS Haritası
