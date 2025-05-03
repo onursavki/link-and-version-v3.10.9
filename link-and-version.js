@@ -261,7 +261,7 @@ links.forEach((link, index) => {
                 imgElement.style.opacity = "1";
             }
         } else {
-            statusRefreshElement.innerHTML = "<span class='updating-refresh magsam'></span><span class='updating'> Mod Güncelleniyor...</span>";
+            statusRefreshElement.innerHTML = "<span class='updating-refresh'></span><span class='updating magsam'> Mod Güncelleniyor...</span>";
         }
     }
 });
