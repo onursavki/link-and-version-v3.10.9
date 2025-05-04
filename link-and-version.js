@@ -236,7 +236,7 @@ links.forEach((link, index) => {
 
     if (statusRefreshElement) {
         if (link === "x") {
-            statusRefreshElement.innerHTML = "<span class='removed' data-uk-icon='icon: close'></span><span class='mod-removed'> Mod Kaldırıldı.</span>";
+            statusRefreshElement.innerHTML = "<span class='removed' data-uk-icon='icon: close'></span><span class='mod-removed'> Kaldırıldı.</span>";
 
             if (modLinkElement) {
                 const anchorTags = modLinkElement.querySelectorAll("a");
@@ -261,7 +261,7 @@ links.forEach((link, index) => {
                 imgElement.style.opacity = "1";
             }
         } else {
-            statusRefreshElement.innerHTML = "<span class='updating-refresh rotate' data-uk-icon='icon: future'></span><span class='updating'> Mod Güncelleniyor...</span>";
+            statusRefreshElement.innerHTML = "<span class='updating-refresh rotate' data-uk-icon='icon: future'></span><span class='updating'> Güncelleniyor...</span>";
         }
     }
 });
