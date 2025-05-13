@@ -168,13 +168,13 @@ const prices = [
     "0,00 ₺", // 2023 Travego 16SHD
     "0,00 ₺", // Setra S516HD
     "0,00 ₺", // Setra 517HDH
-    "80,00 ₺", // Setra S531DT
+    "150,00 ₺", // Setra S531DT
 
     // HARİTALAR
     "0,00 ₺", // Paris Map 1:1
     "0,00 ₺", // Roextended Türkiye Haritası
     "0,00 ₺", // Grand Utopia 1:1
-    "50,00 ₺", // Taşıyıcı Map
+    "150,00 ₺", // Taşıyıcı Map
     "0,00 ₺", // Türkiye YKS Haritası
 
     // SON EKLENEN OTOBÜSLER
