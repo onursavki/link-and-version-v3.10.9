@@ -16,7 +16,7 @@ const links = [
     "", // Yeni Travego 15SHD
     "", // Yeni Travego 16SHD
     "", // 2023 Travego 16SHD
-    "https://ay.link/S516HD", // Setra S516HD
+    "", // Setra S516HD
     "", // Setra 517HDH
     "https://ay.live/S531DT", // Setra S531DT
 
@@ -62,7 +62,7 @@ const skinLinks = [
     "", // Yeni Travego 15SHD
     "", // Yeni Travego 16SHD
     "", // 2023 Travego 16SHD
-    "https://ay.live/S516Sp", // Setra S516HD
+    "", // Setra S516HD
     "", // Setra 517HDH
     "", // Setra S531DT
 
@@ -92,7 +92,7 @@ const versions = [
     "v1.53.x", // Yeni Travego 15SHD
     "v1.53.x", // Yeni Travego 16SHD
     "v1.53.x", // 2023 Travego 16SHD
-    "v1.54.x", // Setra S516HD
+    "v1.53.x", // Setra S516HD
     "v1.53.x", // Setra 517HDH
     "v1.54.x", // Setra S531DT
 
