@@ -92,7 +92,7 @@ const versions = [
     "v1.53.x", // Yeni Travego 15SHD
     "v1.53.x", // Yeni Travego 16SHD
     "v1.53.x", // 2023 Travego 16SHD
-    "v1.53.x", // Setra S516HD
+    "v1.54.x", // Setra S516HD
     "v1.53.x", // Setra 517HDH
     "v1.54.x", // Setra S531DT
 
