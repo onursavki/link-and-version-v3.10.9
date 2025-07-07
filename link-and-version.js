@@ -17,8 +17,8 @@ const links = [
     "", // Yeni Travego 16SHD
     "", // 2023 Travego 16SHD
     "", // Setra S516HD
-    "https://ay.live/S517HD", // Setra 517HDH
-    "https://ay.live/S531DT", // Setra S531DT
+    "", // Setra 517HDH
+    "", // Setra S531DT
 
     // HARİTALAR
     "", // Paris Map 1:1
