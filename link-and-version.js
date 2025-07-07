@@ -18,7 +18,7 @@ const links = [
     "", // 2023 Travego 16SHD
     "https://ay.link/S516HD", // Setra S516HD
     "", // Setra 517HDH
-    "", // Setra S531DT
+    "https://ay.link/S531DT", // Setra S531DT
 
     // HARİTALAR
     "", // Paris Map 1:1
@@ -27,10 +27,10 @@ const links = [
     "", // Roextended Türkiye Haritası
     "", // Roextended Türkiye Haritası
     "", // Grand Utopia 1:1
-    "", // Taşıyıcı Map
-    "", // Türkiye YKS Haritası
-    "", // Türkiye YKS Haritası
-    "", // Türkiye YKS Haritası
+    "https://ay.link/TasMap", // Taşıyıcı Map
+    "", // OyuncuyusBis Map
+    "", // OyuncuyusBis Map
+    "", // OyuncuyusBis Map
 
     // SAYFALAR
     "", // Başvuru Formu
@@ -101,7 +101,7 @@ const versions = [
     "v1.54.x", // Roextended Türkiye Haritası
     "v1.54.x", // Grand Utopia 1:1
     "v1.54.x", // Taşıyıcı Map
-    "v1.54.x", // Türkiye YKS Haritası
+    "v1.54.x", // OyuncuyusBis Map
 
     // SON EKLENEN OTOBÜSLER
     "v1.55.x", // Temsa Maraton 3 VIP 2019-2023
@@ -138,7 +138,7 @@ const modVersions = [
     "v4.6", // Roextended Türkiye Haritası
     "v1.16.3", // Grand Utopia 1:1
     "v11", // Taşıyıcı Map
-    "v1.4.2", // Türkiye YKS Haritası
+    "v1.4.2", // OyuncuyusBis Map
 
     // SON EKLENEN OTOBÜSLER
     "", // Temsa Maraton 3 VIP 2019-2023
@@ -175,7 +175,7 @@ const prices = [
     "0,00 ₺", // Roextended Türkiye Haritası
     "0,00 ₺", // Grand Utopia 1:1
     "150,00 ₺", // Taşıyıcı Map
-    "0,00 ₺", // Türkiye YKS Haritası
+    "0,00 ₺", // OyuncuyusBis Map
 
     // SON EKLENEN OTOBÜSLER
     "0,00 ₺", // Temsa Maraton 3 VIP 2019-2023
