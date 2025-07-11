@@ -26,7 +26,7 @@ const links = [
     "", // Roextended Türkiye Haritası
     "", // Roextended Türkiye Haritası
     "", // Roextended Türkiye Haritası
-    "", // Grand Utopia 1:1
+    "https://ay.live/GraUto", // Grand Utopia 1:1
     "https://ay.link/TasMap", // Taşıyıcı Map
     "", // OyuncuyusBis Map
     "", // OyuncuyusBis Map
