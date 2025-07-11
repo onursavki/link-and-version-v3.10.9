@@ -28,9 +28,9 @@ const links = [
     "", // Roextended Türkiye Haritası
     "https://ay.live/GraUto", // Grand Utopia 1:1
     "https://ay.link/TasMap", // Taşıyıcı Map
-    "", // OyuncuyusBis Map
-    "", // OyuncuyusBis Map
-    "", // OyuncuyusBis Map
+    "https://ay.live/ObMap1", // OyuncuyusBis Map
+    "https://ay.live/ObMap2", // OyuncuyusBis Map
+    "https://ay.live/ObMap3", // OyuncuyusBis Map
 
     // SAYFALAR
     "", // Başvuru Formu
@@ -101,7 +101,7 @@ const versions = [
     "v1.54.x", // Roextended Türkiye Haritası
     "v1.55.x", // Grand Utopia 1:1
     "v1.55.x", // Taşıyıcı Map
-    "v1.54.x", // OyuncuyusBis Map
+    "v1.55.x", // OyuncuyusBis Map
 
     // SON EKLENEN OTOBÜSLER
     "v1.55.x", // Temsa Maraton 3 VIP 2019-2023
