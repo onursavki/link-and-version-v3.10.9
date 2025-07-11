@@ -99,8 +99,8 @@ const versions = [
     // HARİTALAR
     "v1.54.x", // Paris Map 1:1
     "v1.54.x", // Roextended Türkiye Haritası
-    "v1.54.x", // Grand Utopia 1:1
-    "v1.54.x", // Taşıyıcı Map
+    "v1.55.x", // Grand Utopia 1:1
+    "v1.55.x", // Taşıyıcı Map
     "v1.54.x", // OyuncuyusBis Map
 
     // SON EKLENEN OTOBÜSLER
