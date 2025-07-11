@@ -136,7 +136,7 @@ const modVersions = [
     // HARİTALAR
     "v3.4", // Paris Map 1:1
     "v4.6", // Roextended Türkiye Haritası
-    "v1.16.3", // Grand Utopia 1:1
+    "v1.18.1", // Grand Utopia 1:1
     "v11", // Taşıyıcı Map
     "v1.4.2", // OyuncuyusBis Map
 
